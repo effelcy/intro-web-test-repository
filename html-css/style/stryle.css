@@ -1,0 +1,35 @@
+body {
+     font-family: 'Zeyada', cursive; 
+     background-color: blueviolet;
+}
+
+.titulo{
+     color: aqua;
+     text-shadow: 2px 2px #B3005E ;
+     text-align: center
+}
+
+.info{
+     background-color: beige;
+     margin-top: 100px;
+     margin-left: 50px;
+     margin-right: 100px;
+     margin-bottom: 100px; 
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+}
+
+.mylink{
+     color: darkslategrey;
+     text-decoration: none;
+     background-color: chartreuse;
+     padding: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+
